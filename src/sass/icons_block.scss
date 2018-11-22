@@ -1,0 +1,30 @@
+h5 {
+	font-size: 30px;
+	font-weight: 500;
+}
+
+.bg-icons{
+	background-color: #f6f6f6;
+	padding: 65px 0px;
+}
+
+#icons_block {
+	padding: 100px 0px 115px;
+  ul {
+	display: flex;
+  justify-content: space-between;
+	text-align: center;
+	align-items: flex-end;
+  }
+	span {
+	   opacity: 0.8;
+	   color: #212121;
+	   font-size: 22px;
+	   font-weight: 400;
+	   line-height: 32px;
+	   text-transform: uppercase;
+   }
+	 img {
+ 	   padding-bottom: 30px;
+    }
+}

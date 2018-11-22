@@ -1,0 +1,20 @@
+.wrapper {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+body {
+	font-family: 'Asap', sans-serif;
+}
+
+button, .b-send {
+	width: 160px;
+	height: 50px;
+	color: #4d4d4d;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.96px;
+	background-color: #fff;
+	border: 1px solid #4d4d4d;
+}

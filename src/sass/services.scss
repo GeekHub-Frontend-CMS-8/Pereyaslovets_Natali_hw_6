@@ -1,0 +1,26 @@
+#services {
+	text-align: center;
+  h2 {
+    display: block;
+    max-width: 160px;
+    position: relative;
+    margin: 0 auto;
+    text-transform: uppercase;
+  }
+  h2::before {
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    width: 40px;
+    content: '';
+    border-top: solid 2px grey;
+  }
+  ul li {
+  	display: inline-block;
+  	margin: 5px;
+  	width: 360px;
+  }
+  img {
+      margin-bottom: 15px;
+  }
+}
