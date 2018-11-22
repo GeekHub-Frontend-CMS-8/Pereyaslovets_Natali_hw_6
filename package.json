@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaksymTo/sass_geekhub.git"
+    "url": "git+https://github.com/GeekHub-Frontend-CMS-8/Pereyaslovets_Natali_hw_6.git"
   },
-  "author": "maksymto",
+  "author": "Natali_Pereyaslovets",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MaksymTo/sass_geekhub/issues"
+    "url": "https://github.com/GeekHub-Frontend-CMS-8/Pereyaslovets_Natali_hw_6"
   },
-  "homepage": "https://github.com/MaksymTo/sass_geekhub#readme"
+  "homepage": "https://github.com/GeekHub-Frontend-CMS-8/Pereyaslovets_Natali_hw_6"
 }
